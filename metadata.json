@@ -1,0 +1,6 @@
+{
+  "name": "S&P 500 Companies Sorted by Founding Year",
+  "description": "Shell script and interactive browser tool to fetch, parse, and output S&P 500 company names, locations, and founding years sorted chronologically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
